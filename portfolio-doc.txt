@@ -1,0 +1,19 @@
+HEADER
+    - Name
+    - Nav
+    - Navbar
+
+SECTION INTRO
+I am Flipp
+    - I am a web developer 
+
+SECTION ABOUT
+About Flipp
+    - My name is John Liam I. Limbo. I am 18 years old
+        and I am currently taking BS Business Administration
+        Major in Financial Management. On my free time, I learn
+        how to code in C#, Python, HTML & CSS, and most recently,
+        JavaScript. Besides programming, I also know how to use
+        Photoshop, Illustrator, MS Office, Google Workspace, and Wordpress.
+
+SECTION WORKS

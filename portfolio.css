@@ -28,6 +28,15 @@ body {
     padding-left: 50px;
 }
 
+.nav-bar-menu {
+    display: flex;
+    position: absolute;
+    right: 0;
+    top: 25;
+    background-color: aliceblue;
+    
+}
+
 .header {
     width: 260px;
     margin-left: auto;
